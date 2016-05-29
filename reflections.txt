@@ -7,3 +7,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+Answers can be simple. 
+
+Grammar, spelling and punctuation do not need to be perfect, but your reflection needs to be understandable.
+
+Bullet points / lists are acceptable.
+
+Google and learn https://developer.mozilla.org/en-US/docs/Web/HTML/.
